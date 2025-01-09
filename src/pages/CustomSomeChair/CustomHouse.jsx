@@ -1,3 +1,4 @@
+import React from 'react';
 import { Canvas } from '@react-three/fiber';
 import Experiences from './Experiences';
 import Configurator from './Configurator';
